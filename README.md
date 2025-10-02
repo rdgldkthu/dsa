@@ -1,2 +1,2 @@
-# dsa_cpp
+# dsa
 practice data structures and algorithms
